@@ -1,8 +1,10 @@
+#Introduction to Agile Development and Scrum
+
 This project is part of the Introduction to Agile Development and Scrum course on Coursera.
 
 It demonstrates how to use Agile practices and a Kanban board in GitHub to manage work.
 
-About the Project
+#About the Project
 
 The project simulates a simple product catalog system with user stories for:
 
