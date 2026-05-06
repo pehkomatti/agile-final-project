@@ -1,28 +1,32 @@
-#Introduction to Agile Development and Scrum
+# Agile Final Project – Kanban Board
 
-This project is part of the Introduction to Agile Development and Scrum course on Coursera.
+This repository is part of the *Introduction to Agile Development and Scrum* course on Coursera.
 
-It demonstrates how to use Agile practices and a Kanban board in GitHub to manage work.
+## Project Description
 
-#About the Project
+The project simulates a simple product catalog system and demonstrates the use of Agile and Scrum practices with a Kanban board in GitHub.
 
-The project simulates a simple product catalog system with user stories for:
+## Features
 
-Creating, updating, deleting, and retrieving products
-Liking and disliking products
-Listing and searching products
-Deploying the application to the cloud
-Setting up CI/CD automation
-Agile Workflow
+The system includes the following user stories:
 
-Work is organized using a Kanban board with:
+- Create, read, update, and delete products  
+- Like and dislike products  
+- List and search products  
+- Deploy the application to the cloud  
+- Set up CI/CD automation  
 
-Product Backlog
-Icebox
-Sprint Backlog
-In Progress
-Review/QA
-Done
-Purpose
+## Agile Process
 
-The goal is to practice Agile and Scrum concepts like backlog management, sprint planning, and tracking work using GitHub Projects.
+Work is managed using a Kanban board in GitHub Projects. The workflow includes:
+
+- Product Backlog  
+- Icebox  
+- Sprint Backlog  
+- In Progress  
+- Review/QA  
+- Done  
+
+## Purpose
+
+The purpose of this project is to practice Agile and Scrum concepts such as backlog management, sprint planning, and tracking work using a Kanban workflow.
