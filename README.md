@@ -1,3 +1,3 @@
 # Kanban_Board
 
-This is for coursera assign
+This is for coursera course. 
